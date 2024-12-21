@@ -21,7 +21,7 @@ public class PT {
             res = res*(n-i);
             res= res/(i+1);
         }
-        System.out.println("the element of the pascals triangle is " + res);
+        System.out.println("the element " + res);
        
 
     }
